@@ -6,10 +6,7 @@
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+ Nesta etapa os dados que pegamos no DataSUS, na PRF e também do IBGE, vamos filtra-los e trata-los com a ferramenta Python utilizando a biblioteca Pandas, após isso vamos jogar para o Power BI para assim criar um dashboard e visualizar os dados com mais clareza, para que assim possamos observar os sinistros que ocorreram no período, uma das limitações serão as buscas dos dados e a confiabilidade dos dados coletados.
 
 ---
 
