@@ -1,11 +1,7 @@
-# 📌 MVP - [Alphatec]
+# 📌 MVP - Alphatec
 
 ## 🎯 Objetivo do MVP
- Nesta Sprint vamos filtrar os dados a partir dos sites de bases para assim termos uma noção dos sinistros fatais que ocorreram  
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final
+ Nesta Sprint vamos filtrar os dados a partir dos sites de bases para assim termos uma noção dos sinistros fatais que ocorreram no período de 2015 até 2025, e comparar eles por 100 mil habitantes, também iremos comparar todos os sinistros porém desta vez a cada 10 mil veículos por estradas, assim validando a hipótese da região que mais ocorrem os sinistros e quais regiões há mais mortes.  
 
 ---
 
