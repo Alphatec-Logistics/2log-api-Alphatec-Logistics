@@ -11,8 +11,7 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:** Analista, Observatório Nacional de Segurança Viária  
 
 ---
 
@@ -28,15 +27,17 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Sinistros fatais por 100 mil habitantes e compara-los entre os munícipios.                        | Em andamento|
+| 01     | Sinistros a cada 10 mil veículos e compara-los entre as estradas.                           | Em andamento |
+| 01     | Categorizar os tipos de veículos envolvidos nos sinistros.                           | Em andamento |
+
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário entenda o que o grupo propõe para ele com fácil entendimento  
+- O sistema deve registrar o gráfico dos sinistros fatais e não fatais que ocorreram no período e os tipos de veículos envolvidos   
+- Métricas coletadas: Quantidades de sinistros, locais em que ocorreram e os tipos de veículos envolvidos 
 
 ---
 
