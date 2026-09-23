@@ -1,10 +1,11 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - [Alphatec]
 
 ## 🎯 Objetivo do MVP
+ Nesta Sprint vamos filtrar os dados a partir dos sites de bases para assim termos uma noção dos sinistros fatais que ocorreram  
 > Descrever de forma clara qual é o propósito do MVP:  
 - Qual problema resolve?  
 - Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+- Qual valor será entregue ao usuário final
 
 ---
 
@@ -25,8 +26,9 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como analista, quero identificar os sinistros fatais por 100 mil habitantes para efeito comparativo entre os municípios.         | Alta       | 10 pontos   |
+| US2 | Como analista, quero estimar as taxas de sinistros por 10 mil veículos para efeito comparativo entre as estradas.         | Alta      | 8 pontos   |
+| US3 | Como analista, quero categorizar os tipos de veículos envolvidos nos sinistros(caminhões e motocicletas) para mensurar a frequência de cada ocorrência .         | Alta      | 8 pontos   |
 
 ---
 
