@@ -1,7 +1,7 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - ALPHATEC LOGÍSTICS
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
+> A proposta desta segunda sprint é mostrar a efeito comparativo dos sinistros ocorridos a cada 10 mil veículos para efeito   
 - Qual problema resolve?  
 - Qual hipótese será validada?  
 - Qual valor será entregue ao usuário final?  
