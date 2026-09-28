@@ -1,7 +1,7 @@
 # 📌 MVP - Alphatec
 
 ## 🎯 Objetivo do MVP
- Nesta Sprint vamos filtrar os dados a partir dos sites de bases para assim termos uma noção dos sinistros fatais que ocorreram no período de 2015 até 2025, e comparar eles por 100 mil habitantes, também iremos comparar todos os sinistros porém desta vez a cada 10 mil veículos por estradas, assim validando a hipótese da região que mais ocorrem os sinistros e quais regiões há mais mortes.  
+ Nesta Sprint vamos filtrar os dados a partir dos sites de bases para assim termos uma noção dos sinistros fatais que ocorreram no período de 2015 até 2025, e comparar eles por 100 mil habitantes, também iremos comparar os sinistros que envolvem motocicletas, assim validando a hipótese de quais regiões mais ocorrem os sinistros fatais.  
 
 ---
 
@@ -19,7 +19,6 @@
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como analista, quero identificar os sinistros fatais por 100 mil habitantes para efeito comparativo entre os municípios.         | Alta       | 10 pontos   |
-| US2 | Como analista, quero estimar as taxas de sinistros por 10 mil veículos para efeito comparativo entre as estradas.         | Alta      | 8 pontos   |
 | US3 | Como analista, quero categorizar os tipos de veículos envolvidos nos sinistros(caminhões e motocicletas) para mensurar a frequência de cada ocorrência .         | Alta      | 8 pontos   |
 
 ---
@@ -27,9 +26,8 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Sinistros fatais por 100 mil habitantes e compara-los entre os munícipios.                        | Em andamento|
-| 01     | Sinistros a cada 10 mil veículos e compara-los entre as estradas.                           | Em andamento |
-| 01     | Categorizar os tipos de veículos envolvidos nos sinistros.                           | Em andamento |
+| 01     | Sinistros fatais por 100 mil habitantes e compara-los entre os munícipios.                        | Concluído | 
+| 01     | Verificar a porcentagem de sinistros que tem motocicletas envolvidas.                           | Concluído |
 
 
 ---
