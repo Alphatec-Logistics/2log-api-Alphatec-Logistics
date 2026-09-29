@@ -28,11 +28,11 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-*Este projeto tem como objetivo filtrar os dados baixados de plataformas como o DataSUS, Polícia Rodoviária Federal, IBGE, dentre outros e assim separa-los e montar um dashboard no power BI para visualizar os dados de Sinistros ocorridos nas estradas brasileiras no período de 2015 até 2025
+* Este projeto tem como objetivo filtrar os dados baixados de plataformas como o DataSUS, Polícia Rodoviária Federal, IBGE, dentre outros e assim separa-los e montar um dashboard no power BI para visualizar os dados de Sinistros ocorridos nas estradas brasileiras no período de 2015 até 2025
 
 * Vamos Utilizar a linguagem programação Python através do Google Collab para assim poder tratar os dados e separar as informações que forem acordadas na backlog
 
-*Neste Trabalho vamos aprimorar nossas técnicas na API, o trabalho em grupo e conhecimentos técnicos para assim analisar dados mais complexos e entregar uma solução para o problema que foi nos entregado pela instituição com parceria do Observatório Nacional de Segurança Viária onde poderemos até buscar uma nova forma de solucionar algo que talvez eles não tenham descoberto ainda.
+* Neste Trabalho vamos aprimorar nossas técnicas na API, o trabalho em grupo e conhecimentos técnicos para assim analisar dados mais complexos e entregar uma solução para o problema que foi nos entregado pela instituição com parceria do Observatório Nacional de Segurança Viária onde poderemos até buscar uma nova forma de solucionar algo que talvez eles não tenham descoberto ainda.
 
 
 ## Tecnologias Utilizadas
