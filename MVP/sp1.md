@@ -1,4 +1,4 @@
-# 📌 MVP - Alphatec
+# 📌 MVP - ALPHATEC LOGISTICS
 
 ## 🎯 Objetivo do MVP
  Nesta Sprint vamos filtrar os dados a partir dos sites de bases para assim termos uma noção dos sinistros fatais que ocorreram no período de 2015 até 2025, e comparar eles por 100 mil habitantes, também iremos comparar os sinistros que envolvem motocicletas, assim validando a hipótese de quais regiões mais ocorrem os sinistros fatais.  
