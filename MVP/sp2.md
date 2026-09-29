@@ -13,8 +13,7 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:** Analista, Observatório Nacional de Segurança Viária  
 
 ---
 
@@ -34,15 +33,15 @@
 |--------|----------------------------------------------|----------|
 | 02     | Verificar a taxas de sinistros a cada 10 mil veículos                        | Em andamento |
 | 02     | Identificar se houve aumento de frota e se tem relação com o número de sinistros                           | Em andamento |
-| 02     | Verificar a taxas de sinistros a cada 10 mil veículos                        | Em andamento |
-| 02     | Verificar a taxas de sinistros a cada 10 mil veículos                        | Em andamento |
+| 02     | Localizar os pontos de paradas e buscar alguma relação com os locais dos sinistros                        | Em andamento |
+| 02     | Analisar quais as BRs tem a maior taxa de sinistros fatais e buscar alguma relação.                        | Em andamento |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário consiga entender qual o objetivo proposto nesta sprint  
+- O sistema deve registrar as taxas de sinistros a cada 10 mil veículos, o aumento da frota de caminhões no período estudado, os locais de pontos de parada e as BRs com maior taxa de sinistros fatais
+- Métricas coletadas: Verificamos os dados coletados no período solicitados e os filtramos  
 
 ---
 
