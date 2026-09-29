@@ -41,7 +41,7 @@
 ## 📊 Critérios de Aceitação
 - O MVP deve permitir que o usuário consiga entender qual o objetivo proposto nesta sprint  
 - O sistema deve registrar as taxas de sinistros a cada 10 mil veículos, o aumento da frota de caminhões no período estudado, os locais de pontos de parada e as BRs com maior taxa de sinistros fatais
-- Métricas coletadas: Verificamos os dados coletados no período solicitados e os filtramos  
+- Métricas coletadas: Sinistros a cada 10 mil veículos, aumento da frota de veículos pesados, pontos de paradas e sua relação com os locais de sinistros e as BRs mais letais  
 
 ---
 
