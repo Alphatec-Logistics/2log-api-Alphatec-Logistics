@@ -54,6 +54,4 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+- https://youtu.be/1ThF_Wfb-wg
