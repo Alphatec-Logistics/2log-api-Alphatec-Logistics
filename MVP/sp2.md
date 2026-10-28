@@ -61,4 +61,4 @@
 
 ## 📂 Anexos / Evidências
 - Visualização do PowerBI para segunda sprint:
- - {clique aqui para visualização}(https://app.powerbi.com/view?r=eyJrIjoiNDk5Yjc4OTQtMzAzYS00MjNkLTlmYjgtNjA5MzJiNzFhY2E4IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
+ - {clique aqui para visualização}(https://app.powerbi.com/groups/me/reports/47daec74-96ef-45ba-a950-f8e609480acd?language=pt-BR&experience=power-bi)
