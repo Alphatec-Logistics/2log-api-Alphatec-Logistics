@@ -54,11 +54,11 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 | 2    | Alta       | Como analista, quero categorizar os tipos de veículos envolvidos nos sinistros (pesados e motocicletas) para mensurar a frequência de cada ocorrência.                                                                    | 8          | 1      |
 | 3    | Alta       | Como analista, quero estimar as taxas de sinistros por 10 mil veículos para efeito comparativo entre as rodovias                                               | 8          | 2      |
 | 4    | Média      | Como analista, quero identificar se houve aumento da frota de veículos pesados dos anos de 2015 até 2025 para verificar se há relação com o número de sinistros fatais no mesmo período.                                                | 5          | 2      |
-| 5    | Média       | Como analista, quero identificar os pontos de parada e as regiões com maior incidência de sinistros para verificar se existe correlação espacial entre eles.                                               | 5          | 2      |
-| 6    | Média       | Como analista, quero analisar quais as BRs que tem a maior taxa de letalidade envolvendo veículos pesados para comprovar indicadores de fatalidades.                                               | 8          | 2      |
-| 7    | Baixa       | Como analista, quero compilar os dados extraídos das bases da Polícia Federal e do DataSUS para analisar o histórico de sinistros ocorridos no Brasil.                                               | 3          | 3      |
+| 5    | Média       | Como analista, quero mapear a localização e a distribuição dos pontos de parada ao longo das rodovias para estudo de relações futuras.                                               | 5          | 2      |
+| 6   | Baixa      | Como analista, quero consultar os dados sobre as condições metereológicas nos momentos dos sinistros para de identificar se há relações.     | 5          | 3      |
+| 7    | Média       | Como analista, quero analisar quais as BRs que tem a maior taxa de letalidade envolvendo veículos pesados para comprovar indicadores de fatalidades.                                               | 8          | 2      |
 | 8   | Baixa       | Como analista, quero saber os sinistros totais durante todo o período de 2015 à 2025, no estado de São Paulo, para análise de dados concretos.                                               | 3          | 3      |
-| 9   | Baixa      | Como analista, quero consultar os dados sobre as condições metereológicas nos momentos dos sinistros para de identificar se há relações.     | 5          | 3      |
+| 9   | Baixa      | Como analista, quero relacionar os pontos de parada com os locais que ocorreram os sinistros e verificar se há alguma ligação.     | 5          | 3      |
 
 
 
@@ -70,7 +70,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 30/09/2026 | Concluido  | [MVP](MVP/sp1.md)  |
-| 02                | 28/10/2026 | a fazer  | [MVP](MVP/sp2.md)  |
+| 02                | 28/10/2026 | Concluido  | [MVP](MVP/sp2.md)  |
 | 03                | 25/11/2026 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 03/12/2026 | a fazer  | [MVP](#)  |
 
