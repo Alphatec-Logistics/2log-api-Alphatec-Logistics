@@ -59,6 +59,6 @@
 
 ## 📂 Anexos / Evidências
 - Visualização do PowerBI para segunda sprint:
- - [clique aqui para visualização](https://app.powerbi.com/groups/me/reports/47daec74-96ef-45ba-a950-f8e609480acd?language=pt-BR&experience=power-bi)
+ - [clique aqui para visualização](https://app.powerbi.com/view?r=eyJrIjoiNzk5MjIwYWItNTdlNy00YzlhLWFiNmEtOGUxODgxYjM2ZTE3IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
  - Visualização do tratamento dos códigos no Google Colab:
  - [clique aqui para visualizar](https://colab.research.google.com/drive/1Xi4isesei6oKlV8Uyx5gNTx0nUD47YoW?usp=sharing)
