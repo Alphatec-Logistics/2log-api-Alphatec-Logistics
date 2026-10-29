@@ -19,9 +19,10 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US7 | Como analista, quero compilar os dados extraídos das bases da Polícia Federal e do DataSUS para analisar o histórico de sinistros ocorridos no Brasil.         | Baixa       | 3 pontos   |
-| US8 | Como analista, quero saber os sinistros totais durante todo o período de 2015 à 2025, no estado de São Paulo, para análise de dados concretos.         | Baixa      | 3 pontos   |
-| US9 | Como analista, quero consultar os dados sobre as condições metereológicas nos momentos dos sinistros para de identificar se há relações.         | Baixa      | 5 pontos   |
+| US6 | Como analista, quero consultar os dados sobre as condições metereológicas nos momentos dos sinistros para de identificar se há relações.         | Baixa       | 3 pontos   |
+| US7 | Como analista, quero analisar quais as BRs que tem a maior taxa de letalidade envolvendo veículos pesados para comprovar indicadores de fatalidades.         | Média      | 3 pontos   |
+| US8 | Como analista, quero saber os sinistros totais durante todo o período de 2015 à 2025, no estado de São Paulo, para análise de dados concretos.         | Baixa      | 5 pontos   |
+| US9 | Como analista, quero relacionar os pontos de parada com os locais que ocorreram os sinistros e verificar se há alguma ligação.         | Baixa      | 5 pontos   |
 
 ---
 
