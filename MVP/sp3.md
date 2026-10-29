@@ -29,9 +29,10 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 03     | Sinistros ocorridos no Brasil entre 2015 e 2025                        | Concluído|
-| 03     | Sinistros ocorridos no estado de São Paulo no mesmo período                           | Concluído |
-| 03     | Condições climáticas no momento dos sinistros                           | Em andamento |
+| 03     | Condições metereológicas nos momentos dos sinistros.                        | Em andamento|
+| 03     | Estradas federais com maior número de sinistros envolvendo sinistros pesados.                           | Em andamento |
+| 03     | Sinistros totais ocorridos entre 2015 e 2025 no estado de São Paulo.                           | Em andamento |
+| 03     | Verificar se há relação com os locais de sinistros e os pontos de parada.                          | Em andamento |
 
 ---
 
