@@ -1,14 +1,13 @@
 # 📌 MVP - ALPHATEC LOGISTICS
 
 ## 🎯 Objetivo do MVP
-> A proposta desta segunda sprint é mostrar a efeito comparativo dos sinistros ocorridos a cada 10 mil veículos para efeito comparativo entre as estradas e identificaremos se houve aumento da frota de caminhões neste período e se houve aumento de sinistros fatais neste tempo, além do que iremos verificar os locais dos pontos de paradas e se há alguma relação entre eles e os locais que ocorrem os sinistros e identificar quais as BRs ocorrem a maior incidência de sinistros e verificar se existe alguma correlação.   
+> A proposta desta segunda sprint é mostrar a taxa de sinistros ocorridos a cada 10 mil veículos para efeito comparativo entre os estados e identificaremos se houve aumento da frota de caminhões neste período e se houve aumento de sinistros fatais neste tempo, além do que iremos verificar os locais dos pontos de paradas para futuramente podermos mostrar um outro dado comparativo.  
 
 ---
 
 ## 📝 Descrição da Solução
-> Através das ferramentas utilizadas fizemos uma limpeza nos dados coletados e utilizaremos o Power BI para uma boa visualização e assim podermos analisar os dados e assim entregar os resultados que foram acordados para com o cliente.
+> Através do Google Colab Wanderson que é nosso Tema Member fez o tratamento dados coletados nas bases do DataSUS e da PRF e nossos membros, Cauê e Luiz Vinicius utilizaram o Power BI para criar o dashboard e assim podermos analisar os dados e entregar os resultados que foram acordados para com o cliente. Jonathan como PO ficou responsável pela conversa e tirar as dúvidas com o cliente, além de ficar responsável pelo GitHub e toda sua organização e estruturação. Gustavo como Scrum Master nesta sprint continou o trabalho de organizar e fiscalizar o grupo, além de também de organizar o JIRA e designar as tarefas nele. Os dois últimos membros, Maria Eduarda e Artur, ficaram responsáveis pela documentação nesta sprint, não só nessa mas de como todo o projeto, assim como os demais.
 - Ferramentas utilizadas: Power BI, Python, Google Collab.
-- De acordo com os dados que vamos precisarem devemos procurar em mais lugares além dos recomendados.
 
 ---
 
@@ -22,8 +21,8 @@
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US3 | Como analista, quero estimar as taxas de sinistros por 10 mil veículos para efeito comparativo entre as rodovias.         | Alta       | 8 pontos   |
 | US4 | Como analista, quero identificar se houve aumento da frota de veículos pesados dos anos de 2015 até 2025 para verificar se há relação com o número de sinistros fatais no mesmo período.         | Média      | 5 pontos   |
-| US5 | Como analista, quero identificar os pontos de parada e as regiões com o maior incidência de sinistros para verificar se existe relação entre eles.         | Média      | 5 pontos   |
-| US6 | Como analista, quero analisar quais BRs que tem a maior taxa de letalidade evolvendo veículos pesados para comprovar indicadores de fatalidade.         | Média      | 8 pontos   |
+| US5 | Como analista, quero identificar os pontos de parada nas estradas para estudo de relações futuras.         | Média      | 5 pontos   |
+
 
 
 ---
@@ -33,8 +32,7 @@
 |--------|----------------------------------------------|----------|
 | 02     | Verificar a taxas de sinistros a cada 10 mil veículos                        | Em andamento |
 | 02     | Identificar se houve aumento de frota e se tem relação com o número de sinistros                           | Em andamento |
-| 02     | Localizar os pontos de paradas e buscar alguma relação com os locais dos sinistros                        | Em andamento |
-| 02     | Analisar quais as BRs tem a maior taxa de sinistros fatais e buscar alguma relação.                        | Em andamento |
+| 02     | Localizar os pontos de paradas nas estradas                        | Em andamento |
 
 ---
 
@@ -62,3 +60,5 @@
 ## 📂 Anexos / Evidências
 - Visualização do PowerBI para segunda sprint:
  - [clique aqui para visualização](https://app.powerbi.com/groups/me/reports/47daec74-96ef-45ba-a950-f8e609480acd?language=pt-BR&experience=power-bi)
+ - Visualização do tratamento dos códigos no Google Colab:
+ - [clique aqui para visualizar](https://colab.research.google.com/drive/1Xi4isesei6oKlV8Uyx5gNTx0nUD47YoW?usp=sharing)
