@@ -1,7 +1,7 @@
 # 📌 MVP - ALPHATEC LOGISTICS
 
 ## 🎯 Objetivo do MVP
-> O objetivo desta terceira sprint é entregar os resultados finais do nsso projeot onde nela vamos mostrar a evolução dos sinistros ocorridos no nosso país nos anos estudados além do que vamos pesquisar também sobre os sinistros ocorridos no mesmo período no estado de São Paulo e por fim vamos verificar sobre sinistros que ocorreram por conta de eventos metereológico
+> O objetivo desta terceira sprint é entregar os resultados finais do nosso projeto onde nela vamos mostrar a evolução dos sinistros ocorridos no nosso país, e no estado de São Paulo, nos anos estudados além do que vamos pesquisar também sobre os sinistros que ocorreram por conta de eventos meteorológico.
 
 ---
 
@@ -18,7 +18,7 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US6 | Como analista, quero consultar os dados sobre as condições metereológicas nos momentos dos sinistros para de identificar se há relações.         | Baixa       | 3 pontos   |
+| US6 | Como analista, quero consultar os dados sobre as condições meteorológicas nos momentos dos sinistros para de identificar se há relações.         | Baixa       | 3 pontos   |
 | US7 | Como analista, quero analisar quais as BRs que tem a maior taxa de letalidade envolvendo veículos pesados para comprovar indicadores de fatalidades.         | Média      | 3 pontos   |
 | US8 | Como analista, quero saber os sinistros totais durante todo o período de 2015 à 2025, no estado de São Paulo, para análise de dados concretos.         | Baixa      | 5 pontos   |
 | US9 | Como analista, quero relacionar os pontos de parada com os locais que ocorreram os sinistros e verificar se há alguma ligação.         | Baixa      | 5 pontos   |
@@ -28,7 +28,7 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 03     | Condições metereológicas nos momentos dos sinistros.                        | Em andamento|
+| 03     | Condições meteorológicas nos momentos dos sinistros.                        | Em andamento|
 | 03     | Estradas federais com maior número de sinistros envolvendo sinistros pesados.                           | Em andamento |
 | 03     | Sinistros totais ocorridos entre 2015 e 2025 no estado de São Paulo.                           | Em andamento |
 | 03     | Verificar se há relação com os locais de sinistros e os pontos de parada.                          | Em andamento |
