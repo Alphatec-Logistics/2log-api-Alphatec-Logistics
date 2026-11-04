@@ -57,7 +57,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 | 5    | Média       | Como analista, quero mapear a localização e a distribuição dos pontos de parada ao longo das rodovias para estudo de relações futuras.                                               | 5          | 2      |
 | 6   | Baixa      | Como analista, quero consultar os dados sobre as condições meteorológicas nos momentos dos sinistros para de identificar se há relações.     | 5          | 3      |
 | 7    | Média       | Como analista, quero analisar quais as BRs que tem a maior taxa de letalidade envolvendo veículos pesados para comprovar indicadores de fatalidades.                                               | 8          | 3      |
-| 9   | Baixa      | Como analista, quero relacionar os pontos de parada com os locais que ocorreram os sinistros e verificar se há alguma ligação.     | 5          | 3      |
+| 8   | Baixa      | Como analista, quero relacionar os pontos de parada com os locais que ocorreram os sinistros e verificar se há alguma ligação.     | 5          | 3      |
 
 
 
