@@ -30,9 +30,9 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 02     | Verificar a taxas de sinistros a cada 10 mil veículos                        | Em andamento |
-| 02     | Identificar se houve aumento de frota e se tem relação com o número de sinistros                           | Em andamento |
-| 02     | Localizar os pontos de paradas nas estradas                        | Em andamento |
+| 02     | Verificar a taxas de sinistros a cada 10 mil veículos                        | Concluido |
+| 02     | Identificar se houve aumento de frota e se tem relação com o número de sinistros                           | Concluido |
+| 02     | Localizar os pontos de paradas nas estradas                        | Concluido |
 
 ---
 
