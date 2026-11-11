@@ -18,7 +18,7 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US6 | Como analista, quero consultar os dados sobre as condições meteorológicas nos momentos dos sinistros para de identificar se há relações.         | Baixa       | 3 pontos   |
+| US6 | Como analista, quero consultar os dados sobre as condições meteorológicas nos momentos dos sinistros e analisar a gravidade deles para de identificar se há relações.         | Baixa       | 3 pontos   |
 | US7 | Como analista, quero analisar quais as BRs que tem a maior taxa de letalidade envolvendo veículos pesados para comprovar indicadores de fatalidades.         | Média      | 3 pontos   |
 | US8 | Como analista, quero relacionar os pontos de parada com os locais que ocorreram os sinistros e verificar se há alguma ligação.         | Baixa      | 5 pontos   |
 
@@ -27,7 +27,7 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 03     | Condições meteorológicas nos momentos dos sinistros.                        | Em andamento|
+| 03     | Condições meteorológicas nos momentos dos sinistros e a gravidades dos mesmos.                        | Em andamento|
 | 03     | Estradas federais com maior número de sinistros envolvendo sinistros pesados.                           | Em andamento |
 | 03     | Verificar se há relação com os locais de sinistros e os pontos de parada.                          | Em andamento |
 
