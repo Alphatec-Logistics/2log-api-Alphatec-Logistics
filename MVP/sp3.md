@@ -1,12 +1,12 @@
 # 📌 MVP - ALPHATEC LOGISTICS
 
 ## 🎯 Objetivo do MVP
-> O objetivo desta terceira sprint é entregar os resultados finais do nosso projeto onde nela vamos mostrar a evolução dos sinistros ocorridos no nosso país nos anos estudados além do que vamos pesquisar também sobre os sinistros que ocorreram por conta de eventos meteorológico.
+> O objetivo desta terceira sprint é entregar os resultados finais do nosso projeto onde nela vamos mostrar a evolução dos sinistros ocorridos no nosso país nos anos estudados além do que vamos pesquisar também sobre os sinistros que ocorreram por conta de eventos meteorológico. E também para concluir, notamos que a taxa de sinistros no Brasil pode estar tomando um rumo de queda pois se analisarmos o gráfico da evolução da taxa de sinistros nota-se que de 2024 para 2025 houve uma queda no número, com isso deduzimos que os motoristas estão começando a se conscientizar mais sobre os perigos e que também os danos causados por certas negligências não vale a pena.
 
 ---
 
 ## 📝 Descrição da Solução
-> Através do Power BI vamos verificar os dados coletados e nele vamos analisar o que foi acordado com o cliente, onde vamos mostrar os sinistros ocorridos no Brasil e no estado de São Paulo no período de 2015 à 2025 e também verificar as condições climáticas nas ocasiões    
+> Através do Power BI vamos verificar os dados coletados e nele vamos analisar o que foi acordado com o cliente que foram as condições meteorológicas nos momentos dos sinistros para verificar se houve alguma relação e também quais foram as BRs com maiores taxas de letalidade envolvendo os veículos pesados.     
 
 ---
 
@@ -35,8 +35,8 @@
 
 ## 📊 Critérios de Aceitação
 - O MVP deve permitir que o usuário entenda o que esta sendo proposto e como foi a negociação com o cliente  
-- O sistema deve registrar os dados de sinistros ocorridos no período e as condições climáticas nos momentos
-- Métricas coletadas: Dados dos sinistros coletados no país e no estado de São Paulo, condições metereológicas no momentos dos sinistros
+- O sistema deve registrar os dados de sinistros ocorridos no período e as condições climáticas nos momentos e as estradas federais com maior número de sinistros fatais.
+- Métricas coletadas: Dados dos sinistros coletados nos sites governamentais e demais órgãos de pesquisa. 
 
 ---
 
