@@ -6,7 +6,8 @@
 ---
 
 ## 📝 Descrição da Solução
-> Através do Power BI vamos verificar os dados coletados e nele vamos analisar o que foi acordado com o cliente que foram as condições meteorológicas nos momentos dos sinistros para verificar se houve alguma relação e também quais foram as BRs com maiores taxas de letalidade envolvendo os veículos pesados.     
+> Através do Power BI vamos verificar os dados coletados e nele vamos analisar o que foi acordado com o cliente que foram as condições meteorológicas nos momentos dos sinistros para verificar se houve alguma relação e também quais foram as BRs com maiores taxas de letalidade envolvendo os veículos pesados. Jonathan como PO ficou responsável pela conversa e tirar as dúvidas com o cliente, além de ficar responsável pelo GitHub e toda sua organização e estruturação. Gustavo como Scrum Master nesta sprint continou o trabalho de organizar e fiscalizar o grupo, além de também de organizar o JIRA e designar as tarefas nele. Os dois últimos membros, Maria Eduarda e Artur, ficaram responsáveis pela documentação nesta sprint, não só nessa mas de como todo o projeto, assim como os demais.
+- Ferramentas utilizadas: Power BI, Python, Google Collab.     
 
 ---
 
