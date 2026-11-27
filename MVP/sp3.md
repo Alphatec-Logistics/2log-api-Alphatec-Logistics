@@ -56,6 +56,5 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+- Visualização do PowerBI para segunda sprint:
+ - [clique aqui para visualização](https://app.powerbi.com/view?r=eyJrIjoiYzkxNGJlMWUtNTQ3MS00OGE4LThkOWYtOTA3ZGJiYTljNzBhIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9) 
